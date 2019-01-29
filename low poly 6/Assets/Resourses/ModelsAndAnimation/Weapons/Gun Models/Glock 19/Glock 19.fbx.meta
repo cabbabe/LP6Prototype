@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: bce45ee71373a164488bc48f24946fe7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Aimpoint
+    100002: Barrel
+    100004: Chamber
+    100006: Frame
+    100008: //RootNode
+    100010: Internal_Part
+    100012: Magazine
+    100014: Magazine_Release
+    100016: Magazine_Spring
+    100018: Safety
+    100020: Slide
+    100022: Slide_Release
+    100024: Trigger
+    400000: Aimpoint
+    400002: Barrel
+    400004: Chamber
+    400006: Frame
+    400008: //RootNode
+    400010: Internal_Part
+    400012: Magazine
+    400014: Magazine_Release
+    400016: Magazine_Spring
+    400018: Safety
+    400020: Slide
+    400022: Slide_Release
+    400024: Trigger
+    2100000: lambert2
+    2100002: lambert7
+    2100004: lambert8
+    2100006: lambert3
+    2100008: lambert5
+    2100010: lambert4
+    2100012: lambert9
+    2100014: lambert10
+    2100016: lambert6
+    2100018: lambert1
+    2300000: Aimpoint
+    2300002: Barrel
+    2300004: Chamber
+    2300006: Frame
+    2300008: Internal_Part
+    2300010: Magazine
+    2300012: Magazine_Release
+    2300014: Magazine_Spring
+    2300016: Safety
+    2300018: Slide
+    2300020: Slide_Release
+    2300022: Trigger
+    3300000: Aimpoint
+    3300002: Barrel
+    3300004: Chamber
+    3300006: Frame
+    3300008: Internal_Part
+    3300010: Magazine
+    3300012: Magazine_Release
+    3300014: Magazine_Spring
+    3300016: Safety
+    3300018: Slide
+    3300020: Slide_Release
+    3300022: Trigger
+    4300000: Frame
+    4300002: Trigger
+    4300004: Safety
+    4300006: Slide
+    4300008: Magazine_Release
+    4300010: Chamber
+    4300012: Barrel
+    4300014: Slide_Release
+    4300016: Aimpoint
+    4300018: Internal_Part
+    4300020: Magazine
+    4300022: Magazine_Spring
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 5d7fbc5010507b04b9e99a86a3a8efab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: dbfff9328f0ce344d8d65ac97354cb7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: 9b954fbeaeb59c64c8c9856d62debeaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: b04e542b388dc40499a2cc58f7175181, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

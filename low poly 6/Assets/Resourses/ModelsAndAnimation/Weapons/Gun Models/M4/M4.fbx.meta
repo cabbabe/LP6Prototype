@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 4dc255e580384a3459508bdc7be751bd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AimPoint
+    100002: Barrel
+    100004: BarrelCylinder1
+    100006: BarrelCylinder2
+    100008: Body
+    100010: Body_Cylinder
+    100012: Body_Detail
+    100014: Body_Detail1
+    100016: Body_Detail2
+    100018: Body_Detail3
+    100020: Body_Detail4
+    100022: Body_Detail_2
+    100024: Charging_Handle
+    100026: Grip
+    100028: //RootNode
+    100030: Magazine
+    100032: Pullback
+    100034: Stock
+    100036: Stock_Cylinder
+    100038: Stock_Part
+    100040: StockDetail
+    100042: Trigger
+    400000: AimPoint
+    400002: Barrel
+    400004: BarrelCylinder1
+    400006: BarrelCylinder2
+    400008: Body
+    400010: Body_Cylinder
+    400012: Body_Detail
+    400014: Body_Detail1
+    400016: Body_Detail2
+    400018: Body_Detail3
+    400020: Body_Detail4
+    400022: Body_Detail_2
+    400024: Charging_Handle
+    400026: Grip
+    400028: //RootNode
+    400030: Magazine
+    400032: Pullback
+    400034: Stock
+    400036: Stock_Cylinder
+    400038: Stock_Part
+    400040: StockDetail
+    400042: Trigger
+    2100000: lambert10
+    2100002: lambert6
+    2100004: lambert8
+    2100006: lambert5
+    2100008: lambert4
+    2100010: lambert11
+    2100012: lambert12
+    2100014: lambert13
+    2100016: lambert7
+    2100018: lambert9
+    2100020: lambert2
+    2100022: lambert3
+    2100024: lambert1
+    2300000: AimPoint
+    2300002: Barrel
+    2300004: BarrelCylinder1
+    2300006: BarrelCylinder2
+    2300008: Body
+    2300010: Body_Cylinder
+    2300012: Body_Detail
+    2300014: Body_Detail1
+    2300016: Body_Detail2
+    2300018: Body_Detail3
+    2300020: Body_Detail4
+    2300022: Body_Detail_2
+    2300024: Charging_Handle
+    2300026: Grip
+    2300028: Magazine
+    2300030: Pullback
+    2300032: Stock
+    2300034: Stock_Cylinder
+    2300036: Stock_Part
+    2300038: StockDetail
+    2300040: Trigger
+    3300000: AimPoint
+    3300002: Barrel
+    3300004: BarrelCylinder1
+    3300006: BarrelCylinder2
+    3300008: Body
+    3300010: Body_Cylinder
+    3300012: Body_Detail
+    3300014: Body_Detail1
+    3300016: Body_Detail2
+    3300018: Body_Detail3
+    3300020: Body_Detail4
+    3300022: Body_Detail_2
+    3300024: Charging_Handle
+    3300026: Grip
+    3300028: Magazine
+    3300030: Pullback
+    3300032: Stock
+    3300034: Stock_Cylinder
+    3300036: Stock_Part
+    3300038: StockDetail
+    3300040: Trigger
+    4300000: Grip
+    4300002: Body
+    4300004: Trigger
+    4300006: Body_Cylinder
+    4300008: BarrelCylinder2
+    4300010: BarrelCylinder1
+    4300012: Stock_Cylinder
+    4300014: Stock
+    4300016: StockDetail
+    4300018: Stock_Part
+    4300020: Charging_Handle
+    4300022: Pullback
+    4300024: Body_Detail_2
+    4300026: Magazine
+    4300028: AimPoint
+    4300030: Barrel
+    4300032: Body_Detail1
+    4300034: Body_Detail
+    4300036: Body_Detail2
+    4300038: Body_Detail3
+    4300040: Body_Detail4
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
