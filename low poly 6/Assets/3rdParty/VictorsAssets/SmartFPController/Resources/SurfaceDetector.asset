@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d25c48ac6b43ec4997fe54096854fca, type: 3}
+  m_Name: SurfaceDetector
+  m_EditorClassIdentifier: 
+  m_Materials:
+  - surfaceName: Concrete
+    targetObject: {fileID: 2100000, guid: 2323e33d59bda3e4d8f2f69bc47e6c95, type: 2}
+  - surfaceName: Concrete
+    targetObject: {fileID: 2100000, guid: 43e71b3793950794eb46edceee79ff61, type: 2}
+  - surfaceName: Gravel
+    targetObject: {fileID: 2100000, guid: 472454b4009dbe747a9e78d7e0018177, type: 2}
+  - surfaceName: Metal
+    targetObject: {fileID: 2100000, guid: d9e1e2652f8285440900752a8c9ea43b, type: 2}
+  - surfaceName: Wood
+    targetObject: {fileID: 2100000, guid: 4f72554d0136872439171c9f7e966958, type: 2}
+  - surfaceName: Wood
+    targetObject: {fileID: 2100000, guid: a6803db55d0ace240a42fca287c9caab, type: 2}
+  m_Textures:
+  - surfaceName: Concrete
+    targetObject: {fileID: 2800000, guid: 4b34f699509cb8546ac29a117ca40359, type: 3}
+  - surfaceName: Concrete
+    targetObject: {fileID: 2800000, guid: 99591723b54a3fb41874f6d1eeceba30, type: 3}
+  - surfaceName: Gravel
+    targetObject: {fileID: 2800000, guid: 7163bf06c62dbe246810ce80065f85bd, type: 3}
+  m_Names:
+  - Concrete
+  - Gravel
+  - Metal
+  - Wood

@@ -1,0 +1,56 @@
+Please, always remove previous version before updating!
+
+
+//***Version 1.4:***//
+
+Improvements:
+- All animation system moved to Mecanim
+  * Removed BodyAnimation.cs, instead of this added BodyAnimator.cs
+- Updated surface detector
+- Updated setting window
+- New player body and animations for it
+- Improved algorithms of player walking, now they more accurately changes movement speed. 
+
+Changes:
+- Removed all static fields
+- Minor Inspector's improvements
+- Significant refactorings
+
+
+//***Version 1.3:***//
+
+Improvements:
+- Rewrited surface system. 
+- New inspector for surface detector. 
+- Better mouse look. 
+
+
+//***Version 1.2:***//
+
+Improvements:
+- New API functions(see documentation).
+- Improved player prefab
+- Added support Unity 5 Audio system.
+- The InputSystem has been rewrited.
+- Simple in game menu.
+- Now SurfaceDetector can detect terrain textures.
+
+
+//***Version 1.1:***//
+
+- Improvements:
+- New API for configure input actions and call main gameplay functions from your code.
+- New surface detection system for spawn hit effects and play footsteps sounds
+- New Input system
+- Added  Settings Window for configure input and surface detection systems
+- Visible and animated player body
+- Added "UseHeadBob" float field  in "FirstPersonController.cs" for enable/disable head bobbing effect
+- Added "PosForce" and "TiltForce" bool fields in "FirstPersonController.cs" for adjust head bobbing effect threshold
+
+Changes:
+- Removed "FootstepsSoundsManager.cs"
+
+
+//***Version 1.0:***//
+
+- Initial release
